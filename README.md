@@ -34,5 +34,6 @@ Software Enginner
 <img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/css3.svg" width="30"></img>
 <img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg" width="30"></img>
 <img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/git.svg" width="30"></img>
+<img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gnubash.svg" width="30"></img>
 <br/><br/>
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/source.gif" width="50" height="50"></img>I like to share my code on GitHub, expecting that can help someone else...
