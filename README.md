@@ -14,6 +14,7 @@ Software Enginner
   const tech = {
     code: [Javascript, Go, python, HTML, CSS],
     tools: [Node.js, React, GraphQL Redux, Docker, Kubernetes, Jenkins],
+    db: [mongodb, postgresql],
     cloud: [Azure, AWS],
     architecture: [microservices],
     description: "I love coding and share my ideas, and always say that we have someting new to learn every day..."
