@@ -4,7 +4,7 @@
 
 Software Enginner
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Josh2604?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Josh_2604?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/Josh2604/Josh2604?style=social)
 
 
