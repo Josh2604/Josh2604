@@ -12,11 +12,16 @@ Software Enginner
 
 ```js
   const tech = {
-    code: [Javascript, Go, python, HTML, CSS],
+    code: [Javascript, Go, python, rust, HTML, CSS],
     tools: [Node.js, React, GraphQL Redux, Docker, Kubernetes, Jenkins],
     db: [mongodb, postgresql],
     cloud: [Azure, AWS],
     architecture: [microservices],
+    web3: {
+      languages: [rust, solidity]
+      tools: [truffle],
+      blockchains: [solana, eth]
+    },
     description: "I love coding and share my ideas, and always say that we have someting new to learn every day..."
   }
 ```
