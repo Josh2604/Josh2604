@@ -15,12 +15,12 @@ Software Enginner
     code: [Javascript, Go, python, rust, HTML, CSS],
     tools: [Node.js, React, GraphQL Redux, Docker, Kubernetes, Jenkins],
     db: [mongodb, postgresql],
-    cloud: [Azure, AWS],
+    cloud: [Azure, AWS, GCP],
     architecture: [microservices],
     web3: {
       languages: [rust, solidity]
-      tools: [truffle],
-      blockchains: [solana, eth]
+      tools: [truffle, hardhat],
+      blockchains: [solana, eth, polygon]
     },
     description: "I love coding and share my ideas, and always say that we have someting new to learn every day..."
   }
